@@ -1,6 +1,6 @@
 <template>
 
-  <nav class="navbar fixed-top navbar-light" style="background-color: #DDF7F2;">
+  <nav class="navbar fixed-top navbar-light xs" style="background-color: #DDF7F2;">
   <div class="container-fluid">
     <span class="navbar-text">  
       Natalia Araya | FrontEnd Developer 

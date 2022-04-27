@@ -1,5 +1,5 @@
 <template>
-    <div class="container">
+    <div class="container xs">
         <div class="row fila-1">
             <div class="caja1 col-8" style="background-color:#F7EFDD ">
                 <h2>Quién soy</h2>

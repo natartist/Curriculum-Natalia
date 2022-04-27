@@ -1,5 +1,5 @@
 <template>
-  <div class="footer">
+  <div class="footer xs">
     <div class="row">
    
     <div class="caja1 col-4">
