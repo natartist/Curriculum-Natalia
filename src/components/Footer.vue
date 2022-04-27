@@ -2,7 +2,7 @@
   <div class="footer xs">
     <div class="row">
    
-    <div class="caja1 col-4">
+    <div class="caja1 col-4 xs">
       <label for="inputName" class="form-label">Nombre</label>
     <input type="name" id="inputName" class="form-control" aria-describedby="nameHelpBlock">
   <div id="nameHelpBlock" class="form-text">
@@ -15,7 +15,7 @@
 </div>
     </div>
 
-    <div class="caja2 col-4">
+    <div class="caja2 col-4 xs">
       <label for="inputComments" class="form-label">Comentarios</label>
     <input type="comments" id="inputComments" class="form-control inputlargo" aria-describedby="commentsHelpBlock">
   <div id="commentsHelpBlock" class="form-text">
@@ -24,7 +24,7 @@
 <button type="submit" class="btn btn-light">Enviar</button>
     </div>
    
-    <div class="contacto col-4">
+    <div class="contacto col-4 xs">
       <p>nat.webdeveloper@gmail.com</p>
   <p>+56 9 97830991</p>
     </div>

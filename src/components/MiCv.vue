@@ -1,7 +1,7 @@
 <template>
-    <div class="container xs">
+    <div class="container">
         <div class="row fila-1">
-            <div class="caja1 col-8" style="background-color:#F7EFDD ">
+            <div class="caja1 col-8 xs" style="background-color:#F7EFDD ">
                 <h2>Quién soy</h2>
                 <p>Profesional de las comunicaciones, en proceso de reconversión laboral hacia las nuevas tecnologías, a
                     través del desarrollo web, en FrontEnd (categoría Junior). Con interés de aprender, habilidades en
@@ -10,7 +10,7 @@
                     Nivel de inglés medio.</p>
             </div>
 
-            <div class="caja2 col-3 ml-2" style="background-color:#E3F6FF">
+            <div class="caja2 col-3 ml-2 xs" style="background-color:#E3F6FF">
                 <h2>FrontEnd Skills</h2>
                 <ul>
                     <li>HTML</li>
@@ -38,7 +38,7 @@
         </div>
 
         <div class="row fila-2 mt-4">
-            <div class="caja3 col-3" style="background-color:#F1EDFC ">
+            <div class="caja3 col-3 xs" style="background-color:#F1EDFC ">
                 <h2>Redes Sociales</h2>
                 <a title="Linkedin" href="https://www.linkedin.com/in/natalia-araya-frontend/">
                 <img class="rrss" src="@/assets/linkedin.png" alt="Linkedin"/>
@@ -61,7 +61,7 @@
                 </a>
             </div>
 
-            <div class="caja4 col-8" style="background-color: #EED5EE ">
+            <div class="caja4 col-8 xs" style="background-color: #EED5EE ">
                 <h2>Experiencia Laboral</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum delectus obcaecati est molestias?
                     Maxime earum sint et fugiat sequi? Et id reprehenderit eveniet asperiores dolores eius a ex qui cum.
@@ -73,7 +73,7 @@
         </div>
 
         <div class="row fila-3 mt-4">
-            <div class="caja5 col-12" style="background-color:#FDF5FC ">
+            <div class="caja5 col-12 xs" style="background-color:#FDF5FC ">
                 <h2>Estudios</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum delectus obcaecati est molestias?
                     Maxime earum sint et fugiat sequi? Et id reprehenderit eveniet asperiores dolores eius a ex qui cum.
