@@ -29,6 +29,14 @@ nav {
   font-size: 20px;
 }
 
+span {
+  margin-left: 120px;
+
+}
+
+a {
+  margin-right: 100px;
+}
 nav-link {
   color: grey;
 }
